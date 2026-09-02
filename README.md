@@ -442,8 +442,6 @@
 <header>
     <div class="container header-grid">
         <div class="logo-area">
-            <img src="https://snapplanets.app/wp-content/uploads/2026/07/ChatGPT-Image-Jul-25-2026-03_34_31-PM-e1784975819276.png" alt="Snap Planet logo" />
-            <span class="brand">Snap Planet</span>
         </div>
         <nav>
             <a href="#">Home</a>
